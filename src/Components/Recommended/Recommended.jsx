@@ -14,6 +14,106 @@ const Recommended = () => {
   return (
     <div className='recommended'>
       <div className='side-video-list'>
+        <img src={thumbnail1} alt="" />
+        <div className='vid-info'>
+          <h4>best channel that help you</h4>
+          <p>AS Tech</p>
+            <p>203k views</p>
+       
+         </div>
+         </div>
+         
+         
+
+
+       <div className='side-video-list'>
+        <img src={thumbnail2} alt="" />
+        <div className='vid-info'>
+          <h4>best channel that help you</h4>
+          <p>AS Tech</p>
+            <p>203k views</p>
+
+        </div>
+         
+      
+      </div>
+
+
+
+       <div className='side-video-list'>
+        <img src={thumbnail3} alt="" />
+        <div className='vid-info'>
+          <h4>best channel that help you</h4>
+          <p>AS Tech</p>
+            <p>203k views</p>
+
+        </div>
+         
+      
+      </div>
+
+
+       <div className='side-video-list'>
+        <img src={thumbnail4} alt="" />
+        <div className='vid-info'>
+          <h4>best channel that help you</h4>
+          <p>AS Tech</p>
+            <p>203k views</p>
+
+        </div>
+         
+      
+      </div>
+
+
+
+       <div className='side-video-list'>
+        <img src={thumbnail5} alt="" />
+        <div className='vid-info'>
+          <h4>best channel that help you</h4>
+          <p>AS Tech</p>
+            <p>203k views</p>
+
+        </div>
+         
+      
+      </div>
+
+
+       <div className='side-video-list'>
+        <img src={thumbnail6} alt="" />
+        <div className='vid-info'>
+          <h4>best channel that help you</h4>
+          <p>AS Tech</p>
+            <p>203k views</p>
+
+        </div>
+         
+      
+      </div>
+
+
+       <div className='side-video-list'>
+        <img src={thumbnail7} alt="" />
+        <div className='vid-info'>
+          <h4>best channel that help you</h4>
+          <p>AS Tech</p>
+            <p>203k views</p>
+
+        </div>
+         
+      
+      </div>
+
+
+       <div className='side-video-list'>
+        <img src={thumbnail8} alt="" />
+        <div className='vid-info'>
+          <h4>best channel that help you</h4>
+          <p>AS Tech</p>
+            <p>203k views</p>
+
+        </div>
          
       
       </div>
@@ -21,5 +121,8 @@ const Recommended = () => {
     </div>
   )
 }
+
+
+
 
 export default Recommended

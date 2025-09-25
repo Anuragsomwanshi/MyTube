@@ -24,6 +24,7 @@ const Feed = () => {
         <h2>Best channel to learn coding</h2>
         <h3>AsTech</h3>
         <p>50K views &bull: 2 days ago</p>
+        <p>all in one that</p>
       </div>
 
       <div className="card">

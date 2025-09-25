@@ -55,6 +55,57 @@ const Playvideo = () => {
                 </div>
 
             </div>
+
+
+            <div className="comment">
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>Jack Nicholson <span> 1 day ago </span> </h3>
+                    <p>this video that help me a lot</p>
+
+                    <div className="commet-action">
+                        <img src={like} alt="" />
+                        <span>233</span>
+                        <img src={dislike} alt="" />
+                          
+                    </div>
+                </div>
+
+            </div>
+
+            <div className="comment">
+                <img src={user_profile} alt="" />
+                
+                <div>
+                    <h3>Jack Nicholson <span> 1 day ago </span> </h3>
+                    <p>this video that help me a lot</p>
+
+                    <div className="commet-action">
+                        <img src={like} alt="" />
+                        <span>233</span>
+                        
+                        
+                          
+                    </div>
+                </div>
+
+            </div>
+
+            <div className="comment">
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>Jack Nicholson <span> 1 day ago </span> </h3>
+                    <p>this video that help me a lot</p>
+
+                    <div className="commet-action">
+                        <img src={like} alt="" />
+                        <span>233</span>
+                        <img src={dislike} alt="" />
+                          
+                    </div>
+                </div>
+
+            </div>
         </div>
     </div>
   )

@@ -27,6 +27,7 @@
 .play-video-info img{
     width: 20px;
     margin-right: 8px;
+    display:flex;
 
 }
 
@@ -47,6 +48,7 @@
     display: flex;
     align-items: center;
     margin-top:20px ;
+    
 
 }
 
