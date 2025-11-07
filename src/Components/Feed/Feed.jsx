@@ -67,6 +67,7 @@ const Feed = () => {
         <h2>Best channel to learn coding</h2>
         <h3>AsTech</h3>
         <p>50K views &bull: 2 days ago</p>
+
       </div>
 
 
@@ -161,6 +162,7 @@ const Feed = () => {
         <h3>AsTech</h3>
         <p>50K views &bull: 2 days ago</p>
       </div>
+      
 
       <div className="card">
         <img src={thumbnail8} alt="" />

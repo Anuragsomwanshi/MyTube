@@ -14,12 +14,15 @@ const Playvideo = () => {
         <h3>best video to larn tech</h3>
         <div className="play-video-info">
             <p>1525 views  &bull: 2days ago</p>
+            
 
             <div>
                 <span> <img src={like} alt="" />125</span>
                 <span> <img src={dislike} alt="" />12</span>
                 <span> <img src={share} alt="" />share</span>
                 <span> <img src={save} alt="" />save</span>
+
+                
             </div>
         </div>
 
@@ -84,9 +87,7 @@ const Playvideo = () => {
                         <img src={like} alt="" />
                         <span>233</span>
                         
-                        
-                          
-                    </div>
+                        </div>
                 </div>
 
             </div>
